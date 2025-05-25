@@ -1,5 +1,5 @@
 ```diff
-+ hello!! welcome to my github page!
++ hello!! welcome to my github page! i have some stamps here that express myself and ideas i have and value! im very likely gonna add more to the collection including blinkies and buttons too ! :D
 ```
 ```diff
 - warning! flashing lights and bright colors under there!!
